@@ -1,3 +1,23 @@
-.navbar-expanded{
-  background-color: #7B7D7D;
+Body {
+  color: white;
+  font: 20px Arial, sans-serif;
+}
+.bg-footer {
+  background-color:#757777;
+}
+.margin {
+  padding-bottom: 20px;
+  padding-top: 10px;
+}
+.navbar {
+  background-color: #757777;
+}
+.parceiros {
+  background-color:  #757777;
+}
+.quem_somos {
+  background-color: #75AFA2;
+}
+.serviços {
+  background-color:  #75AFA2;
 }
